@@ -46,4 +46,4 @@ A responsive weather web application built using **HTML**, **CSS**, and **JavaSc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weat
+   git clone https://github.com/Raju8184/WeatherApp
